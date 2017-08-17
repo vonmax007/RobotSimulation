@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fan/Projects/GRDestination_342/GenerateExpressDestinations.cpp
+stdafx.h
+/home/fan/Projects/GRDestination_342/stdafx.h
+RealDest.h
+/home/fan/Projects/GRDestination_342/RealDest.h
+
+/home/fan/Projects/GRDestination_342/RealDest.cpp
+stdafx.h
+/home/fan/Projects/GRDestination_342/stdafx.h
+RealDest.h
+/home/fan/Projects/GRDestination_342/RealDest.h
+
+/home/fan/Projects/GRDestination_342/RealDest.h
+
+/home/fan/Projects/GRDestination_342/stdafx.cpp
+stdafx.h
+/home/fan/Projects/GRDestination_342/stdafx.h
+
+/home/fan/Projects/GRDestination_342/stdafx.h
+targetver.h
+/home/fan/Projects/GRDestination_342/targetver.h
+stdio.h
+-
+tchar.h
+-
+iostream
+-
+fstream
+-
+string
+-
+time.h
+-
+
+/home/fan/Projects/GRDestination_342/targetver.h
+
